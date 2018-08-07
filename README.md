@@ -2,4 +2,6 @@
 
   功能就是允许你的APP有多个不同的版本，不同版本的代码可以不一样，如多渠道打包
 
-参考：https://blog.csdn.net/bravefaith/article/details/70800079
+参考1：https://blog.csdn.net/bravefaith/article/details/70800079
+
+参考2：https://www.jianshu.com/p/3ce164863d44
