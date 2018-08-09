@@ -5,3 +5,7 @@
 参考1：https://blog.csdn.net/bravefaith/article/details/70800079
 
 参考2：https://www.jianshu.com/p/3ce164863d44
+
+参考3：https://www.jianshu.com/p/1ae5c85d2ff2
+
+参考4：http://imtianx.cn/2017/06/25/gradle_package_dif_res/
